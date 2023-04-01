@@ -1,0 +1,14 @@
+Write a CD store management application. Each CD contains the following information:
+CD code: an integer
+CD type: a string
+Singer: a string
+Number of songs: a positive integer
+Price: a positive real number
+
+Create a list of CDs and perform the following requirements:
+
+1. Write a method to add a CD to the list, the addition is successful if the CD code is not duplicated.
+2. Find the number of CDs in the list.
+3. Calculate the total price of all CDs.
+4. Write a method to sort the list in descending order based on the price.
+5. Write a method to sort the list in ascending order based on the CD code.
