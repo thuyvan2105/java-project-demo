@@ -1,0 +1,6 @@
+Write a program for an English dictionary. 
+In which, 1 word includes the word, meaning, part of speech, and note.
+
+The dictionary program includes the following methods:
++ Add new vocabulary
++ Look up words in the dictionary.
