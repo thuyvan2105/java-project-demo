@@ -1,4 +1,4 @@
-# Description for the below hypothetical project.
+# Hypothetical project: Store management
 
 A CD store management application project, where each CD contains an id, type, singer, number of songs, and price. 
 The project requires the following functions:
