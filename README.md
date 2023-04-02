@@ -1,4 +1,4 @@
-# Description for the below hypothetical project
+# Hypothetical project: Transaction
 Write a program to simulate the buying and selling of books between customers and employees in store A. The information about the types of books and customers is described as follows:
 
 + Customers: Customer id, full name, phone number, address
