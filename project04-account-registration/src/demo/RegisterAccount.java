@@ -7,7 +7,6 @@ public class RegisterAccount {
 	public static void main(String[] args) {
 		String username = getUsername();
 		String password = getPassword(username);
-
 		System.out.println("Thanks! Your account has been successfully signed up.");
 	}
 

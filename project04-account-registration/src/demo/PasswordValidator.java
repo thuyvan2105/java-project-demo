@@ -37,7 +37,6 @@ public class PasswordValidator {
 					          + "1 lowercase alphabetic character, and 1 special character!!!");
         }
 		return true;
-        
     }
     
     public static boolean isDuplicateMoreThanNLetters(String password, String username, int n) {
